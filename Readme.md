@@ -1,6 +1,6 @@
-1. Addresses:
-   Tournir - 0xf2728128B510e7D1739857FFe102a77130E16c43
-   Migrations - 0x66184aA03b65b347d5Aa298Ec17Cac56d0F5c1ac
-   Token - 0x155A18F61bAFaFFf5C9bdA9b9099ce96675e1808
-2. tournir->registerRoom
+1. Addresses:  
+   Tournir - 0xf2728128B510e7D1739857FFe102a77130E16c43  
+   Migrations - 0x66184aA03b65b347d5Aa298Ec17Cac56d0F5c1ac    
+   Token - 0x155A18F61bAFaFFf5C9bdA9b9099ce96675e1808  
+2. tournir->registerRoom  
    hash - 0x609eb977ef1c3fde453942a6a1041d3cb7291e4b4d385362c4672406908d9fd0
